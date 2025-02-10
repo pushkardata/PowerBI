@@ -30,9 +30,8 @@ Includes a Clear Filters button for easy resetting.
 Open in Power BI Desktop,
 Interact with filters to explore trends and insights.
 ## 🛠 Tools Used
-Power BI
+Power BI,
 DAX for Data Analysis
 
 ## 📢 Contributors
 Created by Pushkar Vijay Suryavanshi
-Company: PwC 
