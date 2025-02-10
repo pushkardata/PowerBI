@@ -20,22 +20,26 @@ Speed of Answer: 67 sec
 Avg Call Handling Time: 224.9 sec
 
 ## 📈 Key Insights
-🔹 Agent Performance
+Agent Performance
+
 Tracks total calls handled per agent.
 
 Calls abandoned %, resolution rate, and customer satisfaction per agent.
 
 Helps identify top-performing agents.
 
-🔹 Call Satisfaction Levels
+Call Satisfaction Levels
+
 Categorizes calls into Normal, Satisfied, Very Satisfied, Not Served, Dissatisfied, and Very Dissatisfied.
 
-🔹 Call Volume Trends
+Call Volume Trends
+
 Hourly Call Volume: Peaks between 09:00 - 18:00.
 
 Daily Call Volume: Highest on Friday & Saturday, lowest on Tuesday.
 
-🔹 Filters & Interactivity
+Filters & Interactivity
+
 Users can filter data by Agent, Topic, Month, and Day.
 
 Includes a Clear Filters button for easy resetting.
