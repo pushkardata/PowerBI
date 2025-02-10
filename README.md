@@ -2,7 +2,7 @@
 This Power BI Dashboard provides insights into Call Centre Trends, call resolution, customer satisfaction, and call volume patterns.
 
 📌 Dashboard Preview
-![Preview](
+![Preview](https://github.com/pushkardata/PowerBI/blob/main/Screenshot%202025-02-11%20031735.png)!
 
 📝 Note: Make sure the image file (Screenshot.png) is uploaded to the same repository where this README.md file exists.
 
