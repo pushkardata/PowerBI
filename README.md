@@ -1,7 +1,8 @@
-Call Centre Data Analysis - Power BI Dashboard
-This Power BI Dashboard provides insights into Call Centre Trends, focusiagent performance, call resolution, customer satisfaction, and call volume patterns.
+# Call Centre Data Analysis - Power BI Dashboard
+This Power BI Dashboard provides insights into Call Centre Trends, call resolution, customer satisfaction, and call volume patterns.
 
 📌 Dashboard Preview
+![Preview](
 
 📝 Note: Make sure the image file (Screenshot.png) is uploaded to the same repository where this README.md file exists.
 
