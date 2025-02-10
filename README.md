@@ -9,10 +9,10 @@ This dashboard helps call centre managers analyze performance by tracking key me
 
 Total Calls: 📞 5,000
 Customer Satisfaction: 😊 68.07%
-Calls Resolved %: ✅ 89.94%
-Calls Abandoned %: ❌ 18.92%
-Speed of Answer: ⏳ 67
-Avg Call Handling Time: 🕐 224.9 sec
+Calls Resolved %: 89.94%
+Calls Abandoned %: 18.92%
+Speed of Answer: 67 sec
+Avg Call Handling Time: 224.9 sec
 ## 📈 Key Insights
 🔹 Agent Performance
 Tracks total calls handled per agent.
