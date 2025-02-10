@@ -8,7 +8,7 @@ This Power BI Dashboard provides insights into Call Centre Trends, call resoluti
 This dashboard helps call centre managers analyze performance by tracking key metrics such as:
 
 Total Calls: 📞 5,000
-Customer Satisfaction: 😊 68.07%
+Customer Satisfaction: 68.07%
 Calls Resolved %: 89.94%
 Calls Abandoned %: 18.92%
 Speed of Answer: 67 sec
