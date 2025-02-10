@@ -27,7 +27,7 @@ Daily Call Volume: Highest on Friday & Saturday, lowest on Tuesday.
 Users can filter data by Agent, Topic, Month, and Day.
 Includes a Clear Filters button for easy resetting.
 ## 📥 How to Use
-Open in Power BI Desktop.
+Open in Power BI Desktop,
 Interact with filters to explore trends and insights.
 ## 🛠 Tools Used
 Power BI
